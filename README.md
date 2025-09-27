@@ -1,10 +1,6 @@
 # EXP-1
 EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
 
-Name: A Ahil Santo
-
-Reg No: 212224040018
-
 ## AIM
 a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit. 
 
